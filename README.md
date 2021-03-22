@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 <!-- <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white"> -->
 
-[![hyunjin's github stats](https://github-readme-stats.vercel.app/api?username=HYUNJINE)](https://github.com/anuraghazra/github-readme-stats)
+
 
