@@ -20,7 +20,7 @@
 <p>
   <img align="left" width="490" height="270" src="https://github-readme-stats.vercel.app/api?username=hyunjinee&show_icons=true&theme=buefy&hide_border=false&line_height=20&show_owner=true"/>
   <p align="right">
-  <h3>my baby</h3>
+  <h3>tech</h3>
   <p>
     <p>
       <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
@@ -42,7 +42,10 @@
     <p>
       <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
       <img alt="Express" src="https://img.shields.io/badge/-Express-232F3E?style=flat-square&logo=Express&logoColor=white" />
-      <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
+<!--       <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/MySQL-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp
       <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
       <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
       <img alt="MySQL"  src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
