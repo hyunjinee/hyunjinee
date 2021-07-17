@@ -18,7 +18,10 @@
 
 
 <p>
-  <img align="left" width="490" height="270" src="https://github-readme-stats.vercel.app/api?username=hyunjinee&show_icons=true&theme=buefy&hide_border=false&line_height=20&show_owner=true"/>
+<!--   <img align="left" width="490" height="270" src="https://github-readme-stats.vercel.app/api?username=hyunjinee&show_icons=true&theme=buefy&hide_border=false&line_height=20&show_owner=true"/> -->
+	<a href="https://solved.ac/profile/yeonzzu45">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hjl9345">
+</a>
   <p align="right">
   <h3>tech</h3>
   <p>
