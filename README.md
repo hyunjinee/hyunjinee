@@ -15,7 +15,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHYUNJINE&count_bg=%23C558DD&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
+<!-- 
 
 <p>
 <!--   <img align="left" width="490" height="270" src="https://github-readme-stats.vercel.app/api?username=hyunjinee&show_icons=true&theme=buefy&hide_border=false&line_height=20&show_owner=true"/> -->
@@ -65,7 +65,7 @@
   </p>
   </p>
  </p>
-
+ -->
 <h3>💌 Contact</h3>
 <p>
 <a href="mailto:leehj0110@kakao.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> &nbsp;
