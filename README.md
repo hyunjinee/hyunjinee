@@ -11,7 +11,7 @@
 [![styled Badge](https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://www.apollographql.com/)
 [![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://sass-lang.com/)
 
-## solved.ac profile
+## 
 [![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjl9345)](https://solved.ac/hjl9345)
 
 ### Experience
