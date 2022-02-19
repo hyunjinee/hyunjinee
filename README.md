@@ -1,4 +1,4 @@
-# 이현진 *hyunjin*
+<!-- # 이현진 *hyunjin* -->
 
 Chungnam National University. Computer Science and Engineering 
 
