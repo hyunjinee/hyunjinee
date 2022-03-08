@@ -1,7 +1,12 @@
 # 이현진 *Lee Hyun Jin*
 
 Chungnam National University. Computer Science and Engineering 
+
 Frontend Engineer
+
+
+
+
 <!-- <hr> 
 
 
