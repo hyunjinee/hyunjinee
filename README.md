@@ -2,8 +2,8 @@
 
 - Chungnam National University. Computer Science and Engineering 
 - Frontend Engineer
-- [블로그]()
-- [개발기록]()
+- [블로그](https://hyunjinee.tistory.com/)
+<!-- - [개발기록]() -->
 
 
 
