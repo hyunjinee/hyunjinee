@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/NGINX-269539?style=flat-square&logo=NGINX&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/GA-E37400?style=flat-square&logo=Google Analytics&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/GA-E37400?style=flat-squsare&logo=Google Analytics&logoColor=white"/>&nbsp
 </p>
 <br> --> 
 
@@ -54,10 +54,12 @@
 [![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjl9345)](https://solved.ac/hjl9345)
 
 ### Experience
-<details open>
-<summary>😉 2021 History</summary>
+<!-- <details> -->
+<summary>2022 History</summary>
+  swmaestro
+<summary>2021 History</summary>
 🏃‍♀<a href="https://play.google.com/store/apps/details?id=com.bclguide.bclguide"> 방슐랭가이드(bclguide) </a> <br/>
-</details>
+<!-- </details> -->
 
 
 
