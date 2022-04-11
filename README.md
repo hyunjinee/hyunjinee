@@ -1,5 +1,7 @@
 # 이현진 *Lee Hyun Jin*
 
+practice makes `improvement`
+
 - Chungnam National University. Computer Science and Engineering 
 - Frontend Engineer
 - [블로그](https://hyunjinee.tistory.com/)
