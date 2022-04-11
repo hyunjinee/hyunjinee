@@ -5,8 +5,8 @@
 - [블로그](https://hyunjinee.tistory.com/)
 - leehj0110@kakao.com
 
-## 
-[![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjl9345)](https://solved.ac/hjl9345)
+<!-- ## 
+[![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjl9345)](https://solved.ac/hjl9345) -->
 
 ### Experience
 
