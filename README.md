@@ -5,7 +5,8 @@ practice makes `improvement`
 - Chungnam National University. Computer Science and Engineering 
 - FrontEnd Engineer
 - [hyunjinlee.com](https://hyunjinlee.com)
-- [블로그](https://hyunjinee.tistory.com/)
+- [블로그1](https://velog.io/@hyunjine)
+- [블로그2](https://hyunjinee.tistory.com/)
 - leehj0110@kakao.com
 
 
