@@ -15,6 +15,8 @@ practice makes `improvement`
 
 - 방슐랭 가이드 (2021 ~ 2022)
 - swmaestro (2022 ~ now)
+- CNU SW Academy 조교 (2022)
+
 <!-- <details> -->
 <!-- <summary>2022 History</summary>
   swmaestro
