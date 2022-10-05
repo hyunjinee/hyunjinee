@@ -13,7 +13,7 @@ practice makes `improvement`
 
 ### Experience
 
-- 방슐랭 가이드 (2021 ~ now)
+- 방슐랭 가이드 (2021 ~ 2022)
 - swmaestro (2022 ~ now)
 <!-- <details> -->
 <!-- <summary>2022 History</summary>
