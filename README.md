@@ -15,7 +15,7 @@ practice makes `improvement`
 
 - 방슐랭 가이드 (2021 ~ 2022)
 - [swmaestro](https://www.swmaestro.org/sw/main/main.do) (2022 ~ now)
-- CNU SW Academy 조교 (2022)
+- CNU SW Academy TA (2022)
 - [Elice](https://elice.io/) SW 트랙 3기 코치 (2022)
 
 <!-- <details> -->
