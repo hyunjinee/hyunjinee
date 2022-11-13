@@ -7,6 +7,7 @@ practice makes `improvement`
 - [hyunjinlee.com](https://hyunjinlee.com)
 - [블로그1](https://velog.io/@hyunjine), [블로그2](https://hyunjinee.tistory.com/)
 - leehj0110@kakao.com
+- [Resume](https://pouncing-amethyst-dcf.notion.site/Lee-Hyun-Jin-e9bd402f7ba34154a2660bbef71c6b7d)
 
 
 
