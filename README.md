@@ -12,11 +12,13 @@ practice makes `improvement`
 
 
 ### Experience
-
-- 방슐랭 가이드 (2021 ~ 2022)
+- [Elice](https://elice.training/track/sw) SW 트랙 3기 코치 (2022)
 - [swmaestro](https://www.swmaestro.org/sw/main/main.do) (2022 ~ now)
 - CNU SW Academy TA (2022)
-- [Elice](https://elice.training/track/sw) SW 트랙 3기 코치 (2022)
+- 방슐랭 가이드 (2021 ~ 2022)
+
+
+
 
 <!-- <details> -->
 <!-- <summary>2022 History</summary>
