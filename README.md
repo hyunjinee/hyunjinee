@@ -12,7 +12,7 @@ practice makes `improvement`
 
 
 ### Experience
-- [SIA] 인턴(2023)
+- [SIA](https://recruit.si-analytics.ai/) Earth Intelligence 사업부 인턴(2023)
 - [Elice](https://elice.training/track/sw) SW 트랙 3기 코치 (2022)
 - [swmaestro 13기](https://www.swmaestro.org/sw/main/main.do) (2022)
 - CNU SW Academy TA (2022)
