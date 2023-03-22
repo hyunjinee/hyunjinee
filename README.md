@@ -1,4 +1,4 @@
-# 이현진 *Lee Hyun Jin*
+# *Lee Hyun Jin*
 
 [Resume](https://hyunjinee.notion.site/), 
 [hyunjinlee.com](https://hyunjinlee.com), [Blog](https://velog.io/@hyunjine)
