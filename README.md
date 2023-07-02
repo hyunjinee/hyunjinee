@@ -1,7 +1,7 @@
 # *Lee Hyun Jin*
 
 <!-- [Resume](https://hyunjinee.notion.site/),  -->
-[Blog](https://velog.io/@hyunjine), [hyunjinlee.com](https://hyunjinlee.com)
+[Blog](https://velog.io/@hyunjine), [Resume](https://hyunjin.oopy.io/)
 
 ## Experience
 `2023.03 ~ 2023.06` SI Analytics FE 인턴  
