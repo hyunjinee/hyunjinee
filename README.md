@@ -1,7 +1,8 @@
 # *Lee Hyun Jin*
 
 <!-- [Resume](https://hyunjinee.notion.site/),  -->
-<!-- [Blog](https://velog.io/@hyunjine), [Resume](https://hyunjin.oopy.io/) -->
+
+<!--  [Blog](https://velog.io/@hyunjine), [Resume](https://hyunjin.oopy.io/)  -->
 
 ## Experience
 `2023.09` tossbank
