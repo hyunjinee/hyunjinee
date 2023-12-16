@@ -4,7 +4,7 @@
 
 <!--  [Blog](https://velog.io/@hyunjine), [Resume](https://hyunjin.oopy.io/)  -->
 
-`2023.09` tossbank software engineer
+<!-- `2023.09` tossbank software engineer -->
 
 <!--
 `2023.03 ~ 2023.06` SI Analytics FE 인턴  
