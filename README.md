@@ -1,7 +1,5 @@
 # *Lee Hyun Jin*
 
-hyunjinlee.com
-
 <!-- [Resume](https://hyunjinee.notion.site/),  -->
 
 <!--  [Blog](https://velog.io/@hyunjine), [Resume](https://hyunjin.oopy.io/)  -->
