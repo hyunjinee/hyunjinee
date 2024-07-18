@@ -1,5 +1,8 @@
 # *Lee Hyun Jin*
 
+- 카카오엔터테인먼트(24.07~)
+- 토스뱅크(23.09~24.04)
+
 <!-- [Resume](https://hyunjinee.notion.site/),  -->
 
 <!--  [Blog](https://velog.io/@hyunjine), [Resume](https://hyunjin.oopy.io/)  -->
