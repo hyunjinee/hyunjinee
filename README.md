@@ -1,7 +1,4 @@
-# *Lee Hyun Jin*
-
-- 카카오엔터테인먼트(24.07~)
-- 토스뱅크(23.09~24.04)
+맛있는 코드를 짜자
 
 <!-- [Resume](https://hyunjinee.notion.site/),  -->
 
