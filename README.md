@@ -1,15 +1,3 @@
-```mermaid
-sequenceDiagram
-    participant Customer
-    participant Barista
-    participant CoffeeMachine
-
-	Customer->>Barista: Order coffee
-	Barista->>CoffeeMachine: Prepare coffee
-	activate CoffeeMachine
-```
-
-
 
 
 <!-- [Resume](https://hyunjinee.notion.site/),  -->
