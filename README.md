@@ -1,5 +1,6 @@
-
-
+kakaoent frontend engineer now
+tossbank fullstack engineer 2023.09~2024.04
+ 
 <!-- [Resume](https://hyunjinee.notion.site/),  -->
 
 <!--  [Blog](https://velog.io/@hyunjine), [Resume](https://hyunjin.oopy.io/)  -->
