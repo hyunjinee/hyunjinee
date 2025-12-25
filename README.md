@@ -1,5 +1,7 @@
 kakaoent frontend engineer now  
 tossbank fullstack engineer 2023.09~2024.04
+
+Interested in FE & AI
  
 <!-- [Resume](https://hyunjinee.notion.site/),  -->
 
